@@ -1,14 +1,17 @@
 {
   "name": "library-server",
-  "version": "0.1.0",
+  "version": "0.0.1",
   "private": true,
   "scripts": {
-    "dev": "next dev",
+    "dev": "cross-env NODE_ENV=development node src/server/server.js",
     "build": "next build",
-    "start": "next start",
+    "start": "cross-env NODE_ENV=production node src/server/server.js",
     "lint": "next lint"
   },
   "dependencies": {
+    "clone": "^2.1.2",
+    "cross-env": "^7.0.3",
+    "json-server": "^0.17.3",
     "next": "13.4.7",
     "react": "18.2.0",
     "react-dom": "18.2.0"
