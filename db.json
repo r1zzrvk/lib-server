@@ -9,8 +9,12 @@
       "href": "/books"
     },
     {
-      "title": "Service",
-      "href": "/service"
+      "title": "Account",
+      "href": "/profile"
+    },
+    {
+      "title": "My lists",
+      "href": "/lists"
     }
   ],
   "footer": {
