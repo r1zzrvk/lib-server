@@ -4,7 +4,7 @@
 
 `npm run dev` - to start local server.
 
-`json-server --watch db.json` - to start JSON Server
+`npm run json-server` - to start JSON Server
 
 ---
 
@@ -20,7 +20,7 @@ Current resources can be found at https://library-server-orpin.vercel.app
 https://library-server-orpin.vercel.app/posts 
 ```
 
-### Add your data to `db.json` and run `json-server --watch db.json`, then push new commit and use it
+### Add your data to `db.json` and run `npm run json-server`, then push new commit and use it
 
 ---
 

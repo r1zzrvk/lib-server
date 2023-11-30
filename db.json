@@ -22,66 +22,41 @@
       "header": "Catalog",
       "menuItems": [
         {
-          "text": "Living room",
-          "href": "/"
+          "text": "Fiction",
+          "href": "/books?category=Fiction"
         },
         {
-          "text": "Bedroom",
-          "href": "/"
+          "text": "Romance",
+          "href": "/books?category=Romance"
         },
         {
-          "text": "Wardrobe",
-          "href": "/"
+          "text": "Computers",
+          "href": "/books?category=Computers"
         },
         {
-          "text": "Hallway",
-          "href": "/"
+          "text": "Classic",
+          "href": "/books?category=Classic"
         },
         {
-          "text": "Playroom",
-          "href": "/"
+          "text": "Historical",
+          "href": "/books?category=Historical"
         }
       ]
     },
     "information": {
-      "header": "Information",
-      "menuItems": [
-        {
-          "text": "For investors",
-          "href": "/"
-        },
-        {
-          "text": "Support",
-          "href": "/"
-        },
-        {
-          "text": "Politics privacy",
-          "href": "/"
-        },
-        {
-          "text": "Cookie settings",
-          "href": "/"
-        }
-      ]
-    },
-    "service": {
       "header": "Service",
       "menuItems": [
         {
-          "text": "Profile",
-          "href": "/"
+          "text": "Account",
+          "href": "/profile"
         },
         {
-          "text": "Favorites",
-          "href": "/"
+          "text": "Authors",
+          "href": "https://github.com/r1zzrvk"
         },
         {
-          "text": "Cart",
-          "href": "/"
-        },
-        {
-          "text": "Shipping and payment",
-          "href": "/"
+          "text": "My lists",
+          "href": "/lists"
         }
       ]
     }

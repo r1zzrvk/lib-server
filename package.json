@@ -7,7 +7,8 @@
     "dev": "cross-env NODE_ENV=development node src/server/server.js",
     "build": "next build",
     "start": "cross-env NODE_ENV=production node src/server/server.js",
-    "lint": "next lint"
+    "lint": "next lint",
+    "json-server": "json-server --watch db.json"
   },
   "dependencies": {
     "clone": "^2.1.2",
