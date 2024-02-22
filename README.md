@@ -11,7 +11,7 @@
 # Now to add new data :heavy_exclamation_mark:
 Current resources can be found at https://library-server-orpin.vercel.app
 
-### All objects/arrays of the first nesting is "handles" for use API:
+### All objects/arrays of the first nesting are "handles" for use API:
 
 ![изображение](https://github.com/r1zzrvk/library-server/assets/82266287/2f35dd4c-1d62-4b0f-af45-ddcd7cbc46d1)
 
