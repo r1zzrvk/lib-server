@@ -9,12 +9,12 @@
       "href": "/books"
     },
     {
-      "title": "Account",
-      "href": "/profile"
-    },
-    {
       "title": "My lists",
       "href": "/lists"
+    },
+    {
+      "title": "Account",
+      "href": "/profile"
     }
   ],
   "footer": {
@@ -51,12 +51,12 @@
           "href": "/profile"
         },
         {
-          "text": "Authors",
-          "href": "https://github.com/r1zzrvk"
-        },
-        {
           "text": "My lists",
           "href": "/lists"
+        },
+        {
+          "text": "Authors",
+          "href": "https://github.com/r1zzrvk"
         }
       ]
     }
